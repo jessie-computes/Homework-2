@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(214, 208, 208);
+    background-image: url(background-cement-concrete-paint-242236.jpg);
+}
+
+.navbar {
+    margin-bottom: 0.5in;
+    background-color: white;
+}
+
+#card-name {
+    background-color: cadetblue;
+    color: white;
+}
+
+#aboutNav, #portfolioNav {
+    border-right: solid; 
+    border-color: rgb(214,208,208);
+}
+
+#contactNav {
+    border-color: rgb(214,208,208);
+}
+
+#bodyCard {
+    width: 688px;
+    padding: 40px;
+    margin: 0.5in;
+}
+
+#topRow {
+    margin-bottom: 0.5in;
+    border-bottom: solid;
+    border-color:  rgb(214, 208, 208);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+    font-weight: bold;
+
+}
+.col-lg-6 {
+    margin-bottom: 0.5in;
+}
+
+#indexImage {
+    float: left;
+    padding-right: 300px;
+}
+#indexP {
+    color: gray;
+}
+
+.form-group {
+    color: gray;
+}
+#exampleFormControlTextarea1 {
+    height: 227px;
+}
+.btn {
+    background-color: cadetblue;
+    color: white;
+}
