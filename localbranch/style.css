@@ -22,10 +22,11 @@ body {
     border-color: rgb(214,208,208);
 }
 
-#bodyCard {
-    width: 688px;
+.bodyCard {
+    width: 70%;
     padding: 40px;
     margin: 0.5in;
+
 }
 
 #topRow {
@@ -47,6 +48,8 @@ h1 {
 #indexImage {
     float: left;
     padding-right: 300px;
+    height: 250px;
+    width: 250px;
 }
 #indexP {
     color: gray;
@@ -62,3 +65,4 @@ h1 {
     background-color: cadetblue;
     color: white;
 }
+
